@@ -1,0 +1,11 @@
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\bin\Debug\구국단.exe.config
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\bin\Debug\구국단.exe
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\bin\Debug\구국단.pdb
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\obj\Debug\구국단.csproj.AssemblyReference.cache
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\obj\Debug\구국단.csproj.SuggestedBindingRedirects.cache
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\obj\Debug\구국단.Form1.resources
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\obj\Debug\구국단.Properties.Resources.resources
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\obj\Debug\구국단.csproj.GenerateResource.cache
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\obj\Debug\구국단.csproj.CoreCompileInputs.cache
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\obj\Debug\구국단.exe
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\구국단\구국단\obj\Debug\구국단.pdb
